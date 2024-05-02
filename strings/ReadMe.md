@@ -1,4 +1,4 @@
-## Defang IP Address
+## [Defang IP Address](https://github.com/sjlouji/Mastering-Cpp-DSA-/blob/master/strings/defangIpAddress.cpp)
 
 #### Problem Statement
 Given a valid IPv4 address, the goal is to transform the IP address into a "defanged" version where each period (`.`) is replaced with `[.]`. This format prevents the IP address from being recognized as a clickable link in some text editors and web pages, enhancing security by avoiding unintended link generation.
