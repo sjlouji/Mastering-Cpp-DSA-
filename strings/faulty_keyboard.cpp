@@ -17,7 +17,7 @@ public:
 public:
     std::string reverse(std::string s) {
         std::string res;
-        for (int i = s.length() - 1; i >= 0; i -= 1) {
+        for (size_t i = s.length() - 1; i < -1; i -= 1) {
             res += s[i];
         }
         return res;
