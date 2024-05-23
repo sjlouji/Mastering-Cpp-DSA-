@@ -1,3 +1,10 @@
+//Input: s = "K1:L2"
+//Output: ["K1","K2","L1","L2"]
+//Explanation:
+//The above diagram shows the cells which should be present in the list.
+//The red arrows denote the order in which the cells should be presented.
+
+
 #include "iostream"
 #include "vector"
 #include <string>

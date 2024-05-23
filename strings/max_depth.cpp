@@ -1,5 +1,12 @@
+//Input: s = "(1+(2*3)+((8)/4))+1"
+//
+//Output: 3
+//
+//Explanation:
+//
+//Digit 8 is inside of 3 nested parentheses in the string.
+
 #include "iostream"
-#include "vector"
 #include <string>
 
 class Solution {
