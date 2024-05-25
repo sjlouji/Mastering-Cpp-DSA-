@@ -4,4 +4,4 @@ project(cpp_dsa)
 set(CMAKE_CXX_STANDARD 26)
 
 add_executable(cpp_dsa
-        strings/sort_sentence.cpp)
+        strings/remove_outer_parentheses.cpp)
